@@ -8,7 +8,6 @@ namespace StopGeneratorsAfterWarhead
 {
 	public class Plugin : Plugin<Config>
 	{
-
 		private EventHandler EventHandler;
 		public static Plugin Singleton;
 
