@@ -14,7 +14,7 @@ namespace StopGeneratorsAfterWarhead
 
 		public override string Name { get; } = "StopGeneratorsAfterWarhead";
 		public override string Author { get; } = "Denty";
-		public override Version Version { get; } = new Version(1, 2, 0);
+		public override Version Version { get; } = new Version(1, 0, 0);
 		public override Version RequiredExiledVersion { get; } = new Version(8, 0, 0);
 
 
