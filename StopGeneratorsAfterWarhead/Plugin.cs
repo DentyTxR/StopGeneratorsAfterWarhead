@@ -53,7 +53,7 @@ namespace StopGeneratorsAfterWarhead
 			}
 		}
 	}
-	
+
 
 	public class Config : IConfig
 	{
